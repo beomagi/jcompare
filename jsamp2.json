@@ -1,0 +1,22 @@
+[
+    {
+        "name":"bobby",
+        "jobs":["cleaning","fixing"],
+        "attrib":{"ht":159,"wt":191,"sz":"l"}
+    },
+    {
+        "name":"carol",
+        "jobs":["teach"],
+        "attrib":{"ht":148,"wt":121,"sz":"s"}
+    },
+    {
+        "name":"rambo jr",
+        "jobs":["hunting","student"],
+        "attrib":{"ht":109,"wt":76,"sz":"10"}
+    },
+    {
+        "name":"rambo",
+        "jobs":["hunting","zombie slaying"],
+        "attrib":{"ht":169,"wt":224,"sz":"l"}
+    }    
+]

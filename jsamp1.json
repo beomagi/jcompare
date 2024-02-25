@@ -1,0 +1,17 @@
+[
+    {
+        "name":"bob",
+        "jobs":["cleaning","fixing"],
+        "attrib":{"ht":159,"wt":191,"sz":"L"}
+    },
+    {
+        "name":"carol",
+        "jobs":["teach","fixing"],
+        "attrib":{"ht":148,"wt":121,"sz":"s"}
+    },
+    {
+        "name":"rambo",
+        "jobs":["hunting","zombie slaying"],
+        "attrib":{"ht":169,"wt":224,"sz":"xl"}
+    }
+]
